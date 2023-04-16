@@ -1,4 +1,16 @@
-[toc]
+<p align="center">
+<h1 align="center"> <img src="photo.png" width="30" />阅读笔记</h1>
+</p>
+
+<div align="center">
+<p align="center">
+  <a href="#时间序列异常监测">时间序列异常监测</a>/
+  <a href="#图神经网络">图神经网络</a>/
+  <a href="#电池状态监测">电池状态监测</a>/
+  <a href="#课程笔记">课程笔记</a>/
+</p>
+</div>
+
 
 # :memo:时间序列异常监测
 
