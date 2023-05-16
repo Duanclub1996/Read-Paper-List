@@ -36,7 +36,7 @@
 |                             论文                             |                             地址                             | 代码                                                     |   期刊    | 领域  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | -------------------------------------------------------- | :-------: | :---: |
 | PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation |          [Paper](https://arxiv.org/abs/1612.00593)           | [Github](https://github.com/charlesq34/pointnet)         | 2017 CVPR | LiDAR |
-| PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space | [Paper]([1706.02413.pdf (arxiv.org)](https://arxiv.org/pdf/1706.02413.pdf)) | [Github](https://github.com/StiphyJay/Pointnet2_PyTorch) | 2017 NIPS | LiDAR |
+| PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space | [Paper](https://arxiv.org/pdf/1706.02413.pdf))| [Github](https://github.com/StiphyJay/Pointnet2_PyTorch) | 2017 NIPS | LiDAR |
 
 
 
